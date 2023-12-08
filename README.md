@@ -11,8 +11,6 @@
 | ------------- |
 | Flutter & Dart| 
 |     Python    |
-|     Java    |
-|     JavaScript    |
 |     JavaScript    |
 |     +15 more |
 
